@@ -12,7 +12,7 @@ CSS: Applied for styling to closely mimic the appearance of the GTA 5 website.
 JavaScript: Implemented to add interactive elements and enhance user experience.
 
 🖥️ Project Preview
-![Screenshot of the GTA 5 Landing Page Replica](./images/screenshot.png)
+![Screenshot of the GTA 5 Landing Page Replica](./src/imagens/127.0.0.1_5500_index.html.png)
 
 📜 License
 This project is distributed under the MIT License.
